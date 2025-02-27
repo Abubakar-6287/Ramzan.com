@@ -849,14 +849,8 @@ i.fa-heart {
   user-select: none;
   z-index: -1;
   animation: urdoo 8s ease-out infinite;
-}
-@keyframes urdoo {
-  0% {
-    color: #e20000;
-  }
-  8% {
-    color: #ffffff;
-  }
+}@keyframes urdoo{
+  
   20% {
     color: #ffd11bf0;
   }
